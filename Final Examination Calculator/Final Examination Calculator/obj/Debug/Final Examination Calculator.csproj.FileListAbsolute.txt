@@ -1,0 +1,12 @@
+C:\Users\training\source\repos\Final Examination Calculator\Final Examination Calculator\bin\Debug\Final Examination Calculator.exe.config
+C:\Users\training\source\repos\Final Examination Calculator\Final Examination Calculator\bin\Debug\Final Examination Calculator.exe
+C:\Users\training\source\repos\Final Examination Calculator\Final Examination Calculator\bin\Debug\Final Examination Calculator.pdb
+C:\Users\training\source\repos\Final Examination Calculator\Final Examination Calculator\obj\Debug\Final Examination Calculator.csprojAssemblyReference.cache
+C:\Users\training\source\repos\Final Examination Calculator\Final Examination Calculator\obj\Debug\Final_Examination_Calculator.Properties.Resources.resources
+C:\Users\training\source\repos\Final Examination Calculator\Final Examination Calculator\obj\Debug\Final Examination Calculator.csproj.GenerateResource.cache
+C:\Users\training\source\repos\Final Examination Calculator\Final Examination Calculator\obj\Debug\Final Examination Calculator.csproj.CoreCompileInputs.cache
+C:\Users\training\source\repos\Final Examination Calculator\Final Examination Calculator\obj\Debug\Final Examination Calculator.exe
+C:\Users\training\source\repos\Final Examination Calculator\Final Examination Calculator\obj\Debug\Final Examination Calculator.pdb
+C:\Users\training\source\repos\Final Examination Calculator\Final Examination Calculator\obj\Debug\Final_Examination_Calculator.fe_calculator.resources
+C:\Users\training\source\repos\Final Examination Calculator\Final Examination Calculator\obj\Debug\Final_Examination_Calculator.cgpa.resources
+C:\Users\training\source\repos\Final Examination Calculator\Final Examination Calculator\obj\Debug\Final_Examination_Calculator.main.resources
